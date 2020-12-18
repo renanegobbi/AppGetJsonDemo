@@ -43,7 +43,7 @@ Instalar a API chamada NewtonSoft, para trabalhar com JSON. A instalação da AP
 *`Install-Package Newtonsoft.Json`*
 
 Caso consuma outro JSON, alterar as propriedades na classe Data e substituir a constante URL_GET_DATA na classe ListagemViewModel:                       
-*`const string URL_GET_VEICULOS = "aqui_está_a_url_que_conterá_o_JSON"`*
+*`const string URL_GET_DATA = "aqui_está_a_url_que_conterá_o_JSON"`*
 
 # Licença
 Este projeto está sob a licença do MIT. Consulte a [LICENÇA](https://github.com/TesteReteste/lim/blob/master/LICENSE) para obter mais informações.
